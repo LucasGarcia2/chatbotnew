@@ -1,0 +1,602 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492644038348@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00F883475BC35483E4A',
+    participant: undefined
+  },
+  messageTimestamp: 1728409953,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5492644038348'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  keyword: 'key_74d8d2b7-41c4-4b3b-8ad1-cdd4625a0f97',
+  answer: '¡👋 Hola soy Avi! El asistente virtual de San Juan Innova S.E.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f28852afa5e7de67aac4bc69f8a02a5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  keyword: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  answer: 'Por favor ingrese el número de la opción que desea:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c68b17bf85c962f742e197dfb62e8735'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03e19194-4d51-4da2-a5d1-88f14c985d87',
+  keyword: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  answer: '1) 🛠️ Solicitar asistencia técnica\n' +
+    '2) 💼 Solicitar nueva conexión de servicio',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd904619a9fe8cf101d67710751c7e84'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492644038348@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB000F63C3F8D531792C5',
+    participant: undefined
+  },
+  messageTimestamp: 1728409959,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5492644038348'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9d3677f8-6672-4ff1-a8aa-6eb367727828',
+  keyword: 'key_7a9b1edc-64bf-4ed6-a780-b9ee3d4fa8d7',
+  answer: 'Ha seleccionado "Solicitar nueva conexión de servicio". A continuación le pediremos los datos.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c35a00a6bdde139be2cb294f189272a2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f5b79b5a-7ed8-4832-977c-f1ff216aca73',
+  keyword: 'ans_9d3677f8-6672-4ff1-a8aa-6eb367727828',
+  answer: 'Ingrese los siguientes datos separados por comas: Nombre y Apellido, Teléfono de contacto, Nombre de la institución, Dirección, Correo electrónico.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '928f54ffd2c467bf0e97c8a7fa98c567'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492644038348@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0974A64CB2571E080C2',
+    participant: undefined
+  },
+  messageTimestamp: 1728409979,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'lucas garcia, 2644038343, innova, centro civico, lucasgarcia@gmail.com',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'lucas garcia, 2644038343, innova, centro civico, lucasgarcia@gmail.com',
+  from: '5492644038348'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  keyword: 'key_74d8d2b7-41c4-4b3b-8ad1-cdd4625a0f97',
+  answer: '¡👋 Hola soy Avi! El asistente virtual de San Juan Innova S.E.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f28852afa5e7de67aac4bc69f8a02a5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  keyword: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  answer: 'Por favor ingrese el número de la opción que desea:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c68b17bf85c962f742e197dfb62e8735'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03e19194-4d51-4da2-a5d1-88f14c985d87',
+  keyword: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  answer: '1) 🛠️ Solicitar asistencia técnica\n' +
+    '2) 💼 Solicitar nueva conexión de servicio',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd904619a9fe8cf101d67710751c7e84'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492644038348@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08C271B88F6819D1139',
+    participant: undefined
+  },
+  messageTimestamp: 1728410013,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5492644038348'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  keyword: 'key_74d8d2b7-41c4-4b3b-8ad1-cdd4625a0f97',
+  answer: '¡👋 Hola soy Avi! El asistente virtual de San Juan Innova S.E.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f28852afa5e7de67aac4bc69f8a02a5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  keyword: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  answer: 'Por favor ingrese el número de la opción que desea:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c68b17bf85c962f742e197dfb62e8735'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03e19194-4d51-4da2-a5d1-88f14c985d87',
+  keyword: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  answer: '1) 🛠️ Solicitar asistencia técnica\n' +
+    '2) 💼 Solicitar nueva conexión de servicio',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd904619a9fe8cf101d67710751c7e84'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492644038348@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB037A86C5799A4E340F6',
+    participant: undefined
+  },
+  messageTimestamp: 1728410018,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: '22',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '22',
+  from: '5492644038348'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9d3677f8-6672-4ff1-a8aa-6eb367727828',
+  keyword: 'key_7a9b1edc-64bf-4ed6-a780-b9ee3d4fa8d7',
+  answer: 'Ha seleccionado "Solicitar nueva conexión de servicio". A continuación le pediremos los datos.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c35a00a6bdde139be2cb294f189272a2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f5b79b5a-7ed8-4832-977c-f1ff216aca73',
+  keyword: 'ans_9d3677f8-6672-4ff1-a8aa-6eb367727828',
+  answer: 'Ingrese los siguientes datos separados por comas: Nombre y Apellido, Teléfono de contacto, Nombre de la institución, Dirección, Correo electrónico.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '928f54ffd2c467bf0e97c8a7fa98c567'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492644038348@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00763BEF2B873847988',
+    participant: undefined
+  },
+  messageTimestamp: 1728410043,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'lucas garcia, 2644039343, innova, centro civico, lucas@gmail.com',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'lucas garcia, 2644039343, innova, centro civico, lucas@gmail.com',
+  from: '5492644038348'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  keyword: 'key_74d8d2b7-41c4-4b3b-8ad1-cdd4625a0f97',
+  answer: '¡👋 Hola soy Avi! El asistente virtual de San Juan Innova S.E.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f28852afa5e7de67aac4bc69f8a02a5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  keyword: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  answer: 'Por favor ingrese el número de la opción que desea:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c68b17bf85c962f742e197dfb62e8735'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03e19194-4d51-4da2-a5d1-88f14c985d87',
+  keyword: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  answer: '1) 🛠️ Solicitar asistencia técnica\n' +
+    '2) 💼 Solicitar nueva conexión de servicio',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd904619a9fe8cf101d67710751c7e84'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492644038348@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E078DED9C61B67D5D4',
+    participant: undefined
+  },
+  messageTimestamp: 1728410255,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '5492644038348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492644038348@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B196EE108FBAD3EB28',
+    participant: undefined
+  },
+  messageTimestamp: 1728410259,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5492644038348'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  keyword: 'key_74d8d2b7-41c4-4b3b-8ad1-cdd4625a0f97',
+  answer: '¡👋 Hola soy Avi! El asistente virtual de San Juan Innova S.E.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f28852afa5e7de67aac4bc69f8a02a5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  keyword: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  answer: 'Por favor ingrese el número de la opción que desea:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c68b17bf85c962f742e197dfb62e8735'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03e19194-4d51-4da2-a5d1-88f14c985d87',
+  keyword: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  answer: '1) 🛠️ Solicitar asistencia técnica\n' +
+    '2) 💼 Solicitar nueva conexión de servicio',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd904619a9fe8cf101d67710751c7e84'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492644038348@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0179C00F92E7E31964D',
+    participant: undefined
+  },
+  messageTimestamp: 1728410263,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '5492644038348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492644038348@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A93CA45ACF4BB3CD36',
+    participant: undefined
+  },
+  messageTimestamp: 1728410268,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5492644038348'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  keyword: 'key_74d8d2b7-41c4-4b3b-8ad1-cdd4625a0f97',
+  answer: '¡👋 Hola soy Avi! El asistente virtual de San Juan Innova S.E.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f28852afa5e7de67aac4bc69f8a02a5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  keyword: 'ans_b0b480a2-a3a4-4ddf-8b14-5fd6e4b9ceff',
+  answer: 'Por favor ingrese el número de la opción que desea:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 750,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c68b17bf85c962f742e197dfb62e8735'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03e19194-4d51-4da2-a5d1-88f14c985d87',
+  keyword: 'ans_1f2642ea-2d36-48b7-b747-7c1e25ffbd92',
+  answer: '1) 🛠️ Solicitar asistencia técnica\n' +
+    '2) 💼 Solicitar nueva conexión de servicio',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd904619a9fe8cf101d67710751c7e84'
+}
